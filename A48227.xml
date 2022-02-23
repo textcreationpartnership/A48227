@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the author of the Vindication of the proceedings of the Ecclesiastical Commissioners concerning the legality of that Court by Philonomus Anglicus.</title>
+            <author>Philonomos, Anglicus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48227</idno>
+            <idno type="STC">Wing L1728</idno>
+            <idno type="STC">ESTC R4715</idno>
+            <idno type="EEBO-CITATION">12979489</idno>
+            <idno type="OCLC">ocm 12979489</idno>
+            <idno type="VID">96162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the author of the Vindication of the proceedings of the Ecclesiastical Commissioners concerning the legality of that Court by Philonomus Anglicus.</title>
+                  <author>Philonomos, Anglicus.</author>
+               </titleStmt>
+               <extent>[2], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>Printed Eleutheropolis [Oxford? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Philonomus Anglicus.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Care, Henry, 1646-1688. --  Vindication of the proceedings of His Majesties Ecclesiastical Commissioners.</term>
+               <term>England and Wales. --  Ecclesiastical Commission (1686)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96162:1"/>
+            <p>A LETTER TO THE AUTHOR OF THE VINDICATION Of the Proceedings of the Eccleſiaſtical Commiſſioners, Concerning The Legality of that Court.</p>
+            <p>By <hi>Philonomus Anglicus.</hi>
+            </p>
+            <p>Printed <hi>Eleutheropolis.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:96162:2"/>
+            <pb n="1" facs="tcp:96162:2"/>
+            <head>A Letter &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving read your pretended <hi>Vin<g ref="char:EOLhyphen"/>dication of the Proceedings of the Eccleſiaſtical Commiſſioners againſt the Biſhop of</hi> London <hi>and the Fel<g ref="char:EOLhyphen"/>lows of Magdalen Colledge,</hi> I could not for<g ref="char:EOLhyphen"/>bear acquainting you with the Reaſons why I remain as yet unſatisfied as to the Legali<g ref="char:EOLhyphen"/>ty thereof, notwithſtanding all that you al<g ref="char:EOLhyphen"/>ledge in their Juſtification.</p>
+            <p>I ſhall paſs by your Introduction, and the invidious Reflections therein contain'd, upon the Church of <hi>England,</hi> with reſpect to their <hi>ſevere way of exerciſing the Regal
+<pb n="2" facs="tcp:96162:3"/>Power againſt Proteſtant Diſſenters;</hi> and come to your firſt Section, which you entitle <hi>The Legality of the Court held by His Majeſty's Eccleſiaſtical Commiſſioners.</hi>
+            </p>
+            <p>Upon which the Queſtion muſt be, <hi>Whe<g ref="char:EOLhyphen"/>ther or no by the Laws of the Nation, as they now ſtand, the King's Eccleſiaſtical Juriſdicti<g ref="char:EOLhyphen"/>on may be delegated to Commiſſioners?</hi>
+            </p>
+            <p>It is enacted by <hi>primo Eliz. cap</hi> 1. That <hi>ſuch Iuriſdictions, Priviledges, Superio<g ref="char:EOLhyphen"/>rities and Preheminencies Eccleſiaſtical and Spiritual, as by any Eccleſiaſtical or Spiritual Power or Authority, hath heretofore been or may be lawfully ex<g ref="char:EOLhyphen"/>erciſed or uſed, for the Viſitation of the Eccleſiaſtical State and Perſons, and for Reformation, Order or Correction of the ſame, and of all manner of Hereſies, Errors, Schiſmes, Abuſes, Offences, Eontempts and Enormities, ſhall for e<g ref="char:EOLhyphen"/>ver</hi> by Authority of this preſent Parliament, <hi>be united and annexed to</hi> the Imperial Crown of this Realm.</p>
+            <pb n="3" facs="tcp:96162:3"/>
+            <p>And then follows the Branch Concerning the Queen's Aſſigning Commiſſioners to ex<g ref="char:EOLhyphen"/>erciſe Eccleſiaſtical Juriſdiction.</p>
+            <p>This you ſay (and quote the Lord <hi>Coke</hi>'s Authority for it) that it is an Act of Reſti<g ref="char:EOLhyphen"/>tution,<note place="margin">Pag. 6.</note> and that <hi>the Expreſs Letter and meaning of</hi> 1ſt. Eliz. <hi>is to Reſtore to the</hi> Crown <hi>the Antient Iurisdiction Eceleſi<g ref="char:EOLhyphen"/>aſtical:</hi> Which that it is true in general, to wit, that the <hi>Eccleſiaſtical Iuriſdicti<g ref="char:EOLhyphen"/>on of the</hi> Crown <hi>of England,</hi> had been uſurp'd upon by the See of <hi>Rome,</hi> and was by this Act intended to be reſtor'd, I ſup<g ref="char:EOLhyphen"/>poſe no man will deny: But whether Our Kings by vertue of their <hi>Antient Inherent and Primitive Eccleſiaſtical Iuriſdiction,</hi> might delegate to <hi>Commiſſioners</hi> the Exerciſe thereof: Or whether <hi>Eccleſiaſtical Commiſſio<g ref="char:EOLhyphen"/>ners</hi> derived their Authority from his Ma<g ref="char:EOLhyphen"/>jeſty by vertue of that Act <hi>only,</hi> and not upon the ſcore of any Prerogative in the Crown, preceding to that Act, whereby Our Kings might appoint <hi>Commiſſioners</hi> in ſuch Caſes, <hi>ad libitum,</hi> is (as I take) the ſingle Queſtion, upon which the validity or
+<pb n="4" facs="tcp:96162:4"/>invalidity of the preſent <hi>Commiſſion</hi> will turn.</p>
+            <p>The <hi>Supreme Eccleſiaſtical Iuriſdicti<g ref="char:EOLhyphen"/>on</hi> was an <hi>Ancient Right of the Crown.</hi> But whether <hi>the Kings</hi> of this Realm by vertue of their ſupreme Eccleſiaſtical Juriſ<g ref="char:EOLhyphen"/>diction could anciently grant a Com<g ref="char:EOLhyphen"/>miſſion of this Nature, may admit of a doubt.</p>
+            <p>It will be worth while to enquire, what this <hi>Supreme Eccleſiaſtical Iuriſdiction</hi> antiently was, in order to the finding out whether <hi>ſuch a Commiſſion as is now iſſued,</hi> has any Warrant from the <hi>Common Law</hi> or not.</p>
+            <p>For the clearing of this, we muſt look ma<g ref="char:EOLhyphen"/>ny Ages backward, and as well as may be diſ<g ref="char:EOLhyphen"/>covered at ſo great a diſtance, examine, <hi>What Power our Antient Kings had in Eccleſiaſtical Affairs,</hi> before ſuch time as the <hi>Papal <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pations</hi> wreſted it from them.</p>
+            <pb n="5" facs="tcp:96162:4"/>
+            <p>It is not an expreſſion that might drop from my Lord <hi>Coke</hi>'s Pen, that will deter<g ref="char:EOLhyphen"/>mine ſo weighty a point as this; eſpecially being a Queſtion that depends upon ſome Knowledge of Antiquity, which my Lord <hi>Coke</hi> was very little acquainted with. And what you call <hi>the greateſt clearneſs</hi> in that Chapter of his, <hi>Cap.</hi> 74. appears to others ve<g ref="char:EOLhyphen"/>ry blind, and the Light that is in it, makes wretchedly againſt you.</p>
+            <p>He tells us that <hi>No Commiſſioner by force of that Ancient Eccleſiaſtical Juriſdiction, could impoſe Fine and Impriſonment,</hi> but never tells us that our Kings, by Vertue of their Anci<g ref="char:EOLhyphen"/>ent Eccleſiaſtical Juriſdiction, could appoint any Commiſſioners.</p>
+            <p>Nor does he quote any Authorities in the Margent of that whole Diſcourſe, to evince wherein the <hi>Ancient Eccleſiaſtical Iuriſ<g ref="char:EOLhyphen"/>diction</hi> conſiſted; which yet he never fails to do, when he can, right or wrong.</p>
+            <p>And it may juſtly diſparage that whole Diſcourſe, that he tells us the Statutes of
+<pb n="6" facs="tcp:96162:5"/>26 <hi>H.</hi> 8. <hi>cap.</hi> 1. and of 35 <hi>H.</hi> 8. <hi>c.</hi> 3. are in force, for as much as the Statute of 1 <hi>and</hi> 2 <hi>Ph. and Mar. cap.</hi> 8. (whereby they were repealed) was it ſelf repealed <hi>Primo Eliz.</hi> and conſequently thoſe Acts Implicitly re<g ref="char:EOLhyphen"/>vived.</p>
+            <p>Then which nothing can be more falſe; for the Statute <hi>of primo Eliz.</hi> though it re<g ref="char:EOLhyphen"/>peal 1 <hi>and</hi> 2 <hi>Ph. and Ma. c.</hi> 8. does yet e<g ref="char:EOLhyphen"/>nact that <hi>all Laws and Statutes,</hi> &amp;c. <hi>made void by the ſaid Act of Repeal</hi> (1 and 2 P. and M.) <hi>and not in this preſent Act ſpe<g ref="char:EOLhyphen"/>cially mentioned and revived, ſhall ſtand repealed and void, any thing in the ſaid Statute</hi> (of primo Eliz) <hi>to the contrary notwithſtanding.</hi> Now the Laws of 26 <hi>H.</hi> 8. <hi>cap.</hi> 1. and 35 <hi>H.</hi> 8. <hi>cap.</hi> 3. were repea<g ref="char:EOLhyphen"/>led by the 1 <hi>and</hi> 2 <hi>Ph. and Ma.</hi> and are not ſpecially mentioned to be revived <hi>primo Eliz.</hi> and conſequently do at this day ſtand Re<g ref="char:EOLhyphen"/>pealed.</p>
+            <p>He tells us <hi>the Branch concerning the High-Commiſſion was Enacted out of neceſſity:</hi>
+               <note place="margin">Pa p. 326.</note> 
+               <note place="margin">☞</note> 
+               <hi>For that all the Biſhops and moſt of the Clergy of</hi>
+               <pb n="7" facs="tcp:96162:5"/>England <hi>being then</hi> Popiſh, <hi>it was neceſſary to raiſe a Commiſſion to deprive them, that would not deprive themſeves. So that, as neceſſity cau<g ref="char:EOLhyphen"/>ſed this Commiſſion, it ought not to be exerciſed but upon neceſſity, for it was never intended to be a continual ſtanding Commiſſion. For that would prejudice all the Biſhops of</hi> England <hi>in their Eccleſiaſtial Juriſdiction,</hi> &amp;c.</p>
+            <p>What need then of an Eccleſiaſtical Com<g ref="char:EOLhyphen"/>miſſion at this time, now that <hi>all the Bi<g ref="char:EOLhyphen"/>ſhops and moſt of the Clergy of</hi> England, <hi>are Proteſtants?</hi>
+            </p>
+            <p>
+               <hi>The deprivation of the</hi> Popiſh <hi>Clergy,</hi> he ſays, <hi>was the main Object of the Act.</hi>
+            </p>
+            <p>That indeed he <hi>demonſtrates clearly,</hi> and alſo that thoſe Commiſſioners never had any Authority to Fine and Impriſon; but the <hi>Ancient Eccleſiaſtical Iuriſdiction</hi> he is very dark in, becauſe he underſtood it not.</p>
+            <p>He labours in vain to prove the Queen <hi>Head of the Church</hi> by Statute-Law. For
+<pb n="8" facs="tcp:96162:6"/>(as I have ſaid) no Law in force declared her ſo.</p>
+            <p>But that ſhe was ſo by <hi>the Common-Law,</hi> and that all our Kings <hi>virtute officii</hi> are and ought to be acknowledged ſo, I readily grant. They are the head of the State, as well as of the Church, but are bound by the Laws of the Realm in the exerciſe of their Juriſdiction.</p>
+            <p>Let us conſider a little what this <hi>Legal Eccleſiaſtical Supremacy</hi> anciently was, is, and ought to be.</p>
+            <p>The beginning of Popiſh Uſurpations is as high as King <hi>William the Conqueror</hi>'s days. Then it was the Pope apprehended the firſt opportunity to uſurp upon the Liberties of the Crown of <hi>England.</hi> For the Conqueror came in with the Pope's Banner, and under it won the Battel, which got him the Gar<g ref="char:EOLhyphen"/>land; and therefore the Pope preſumed he might lawfully pluck ſome Flowers from it, being partly gained by his Countenance and Bleſſing. Hereupon he ſent two Legates
+<pb n="9" facs="tcp:96162:6"/>into <hi>England,</hi> &amp;c. but no Decree was paſs'd, or put in Execution in his time without his Royal Aſſent. In his Succeſſor <hi>William Ru<g ref="char:EOLhyphen"/>fus</hi> his time, they attempted to draw Ap<g ref="char:EOLhyphen"/>peals to the Court of <hi>Rome,</hi> but prevailed not. In the ſucceeding Reigns of <hi>King H.</hi> I. <hi>King Steven, King Henry</hi> II. <hi>and King John,</hi> Inveſtitures of Biſhopricks, Appeals to <hi>Rome,</hi> and exemption of Clerks were conten<g ref="char:EOLhyphen"/>ded for, and with much difficulty obtained: and in King <hi>Stephen's</hi> time, when the Cler<g ref="char:EOLhyphen"/>gy were Lords Paramount, the Canon-Law got footing amongſt us, and has been in part received and ſubmitted to ever ſince. It was introduced by the power of the Clergy with<g ref="char:EOLhyphen"/>out aſſent of the Legiſlative Power of the Nation; and from that time till the Refor<g ref="char:EOLhyphen"/>mation, Kings and Parliaments were axclu<g ref="char:EOLhyphen"/>ded from the enacting of Canons and Conſtitutions for the Government of the Church.</p>
+            <p>The Eccleſiaſtical Juriſdiction of the Crown was during that time under an Eclipſe, which King <hi>Henry</hi> the eighth Reſtor'd to its Luſtre, but becauſe whatever he did, was undone
+<pb n="10" facs="tcp:96162:7"/>again by Queen <hi>Mary,</hi> we may date the Re<g ref="char:EOLhyphen"/>ſtitution of Eccleſiaſtical Juriſdiction from <hi>primo Eliz</hi> Which Reſtitution being in ge<g ref="char:EOLhyphen"/>neral terms, and relating to former uſage, we cannot know by that Act what the <hi>An<g ref="char:EOLhyphen"/>cient Iuriſdiction of the Crown was in Eccleſiaſtical Matters.</hi> The true noti<g ref="char:EOLhyphen"/>on of which, as it would diſpel ſome Miſts that Ignorance and Flattery have occaſioned, ſo it muſt be fetch't from thoſe times, in which it was genuine, unadulterated by for<g ref="char:EOLhyphen"/>reign uſurpations, or modern impertinent and vain aſcriptions.</p>
+            <p>Appeals to <hi>Rome,</hi> were gain'd in King <hi>Stephen</hi>'s Time; and not till then. Therefore before his time, Appeals in Eccleſiaſtical Cauſes were to the King. But how? To the King in Perſon? I meet with no ſuch thing in my little Reading. Nor any foot-ſteps of Commiſſions of Delegates, till <hi>King Henry the 8th</hi>'s time. But Appeals were to the King in Parliament: or, in the Lan<g ref="char:EOLhyphen"/>guage of thoſe times, to the <hi>Commune Con<g ref="char:EOLhyphen"/>cilium Regni.</hi> Of which there are many inſtances.</p>
+            <pb n="11" facs="tcp:96162:7"/>
+            <p>
+               <hi>Inveſtitures and Elections of Biſhops</hi> were gain'd from the Crown in <hi>King Henry the 1ſt.</hi> and <hi>King John</hi>'s Time. But before their days it was not a perſonal Prerogative in the King to elect and inveſt them. For <hi>Biſhopricks</hi> were then conferr'd by the <hi>Curia Regis pro ſuâ complacentiâ.</hi>
+            </p>
+            <p>In like manner the Power of making Canons for the Government of the Church and of receiving and incorporating into our Government Canons made beyond Sea by General Councils, or Councils ſo reputed, was in the Crown, as was the Power of making Temporal Laws for the Govern<g ref="char:EOLhyphen"/>ment of the State. But how to be exercis'd? In an Arbitrary deſpotick manner? No, but with the concurrence of the Great Council of the Realm: And by that Au<g ref="char:EOLhyphen"/>thority were all the Laws made in thoſe days for the Government both of Church and State.</p>
+            <p>Thoſe Eccleſiaſtical Laws thus made, were adminiſtred by the Biſhops and others
+<pb n="12" facs="tcp:96162:8"/>having Eccleſiaſtical Juriſdiction, and be<g ref="char:EOLhyphen"/>fore the entrance of the <hi>Normans</hi> in the Hundred and County-Courts, and at the Turnes, where the Biſhop and the Earl ſate together: And in the Conquerour's days, ſince in the Biſhops Courts, who by a Law in his Reign, were impowered to hold their Courts apart from the Laity.</p>
+            <p>But no Eccleſiaſtical Juriſdiction was ever Delegated to Commiſſioners. Records of thoſe times are loſt in a great and deplo<g ref="char:EOLhyphen"/>rable meaſure: But many Hiſtories, and all written by Church-men, are extant, which could not have fail'd giving ſome hint there<g ref="char:EOLhyphen"/>of, if any ſuch thing had ever been.</p>
+            <p>Now if no ſuch Commiſſion was ever granted till the Reformation, then was that Branch <hi>of primo Eliz.</hi> which ſets up the High-Commiſſion, introductive of a New Law. It gave the Queen Power, which ſhe had not before, which power conſequent<g ref="char:EOLhyphen"/>ly ceaſed, when the foundation upon which it reſted, was taken away.</p>
+            <pb n="13" facs="tcp:96162:8"/>
+            <p>For Commiſſions are not ſuch Arbitrary things as ſome miſtaken men fondly ima<g ref="char:EOLhyphen"/>gine. Though Commiſſioners are but Sub<g ref="char:EOLhyphen"/>ſtitutes and Deputies, Perſons that Act in his Name that impowers them, and execute his Authority, not their own: And how plauſibly ſo ever it be ſaid, that what Power a man has in himſelf he may delegate to a<g ref="char:EOLhyphen"/>nother: Yet this difference muſt be admit<g ref="char:EOLhyphen"/>ted betwixt Perſons commiſſionated by the King in matters of Government, and Per<g ref="char:EOLhyphen"/>ſons Authorized by Private men, to act for them and in their ſtead; <hi>viz.</hi> that private men may by Law do thoſe things in Per<g ref="char:EOLhyphen"/>ſon, which they impower others to do for them. But the King commiſſionates Per<g ref="char:EOLhyphen"/>ſons to do, what himſelf cannot by Law do in Perſon: And conſequently they do not receive their Authority from him onely, but from the Law of the Realm, which Authorizes him to commiſſionate them, and where the Law does not impower the King to iſſue a Commiſſion, he can iſſue none, to exerciſe Juriſdiction.</p>
+            <pb n="14" facs="tcp:96162:9"/>
+            <p>The Law (by which the King Reigns) has already diſtributed his Juſtice to his hands, and committed the Adminiſtration of it to the ſe<g ref="char:EOLhyphen"/>veral Temporal and Spiritual Courts, the Juriſ<g ref="char:EOLhyphen"/>diction of which he can neither enlarge nor abridge. Circumſtances of Affairs ſometimes require the iſſuing out of Commiſſions of a new, and perhaps an extraordinary nature; and the Repreſentative Body of the Kingdom, which by the Law is to be aſſembled once a year in Parliament, do from time to time impower the Crown, to iſſue Commiſſions ac<g ref="char:EOLhyphen"/>cording as the caſe requires. All which Acts of Parliament would be needleſs, if his Ma<g ref="char:EOLhyphen"/>jeſty might iſſue Commiſſions at Plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>The King is impowered by the Law to grant a Commiſſion, when either an Act of Parliament warrants it, or cuſtome imme<g ref="char:EOLhyphen"/>morial, which preſuppoſes a Law. When both fail, the Commiſſion is illegal.</p>
+            <p>Commiſſioners of <hi>Oyer and Terminer,</hi> of <hi>Aſſize, Niſi priùs, Goal-Delivery,</hi> and <hi>the
+<pb n="16" facs="tcp:96162:9"/>Peace,</hi> are all by vertue of Acts of Parlia<g ref="char:EOLhyphen"/>ments, as was the High-Commiſſion, whilſt it was in being: But the foundation thereof being taken away, this Modern one is built upon Sand, and when the wind blows, it will fall. Civil cauſes (where Acts of Par<g ref="char:EOLhyphen"/>liament do not warrant it) cannot be deter<g ref="char:EOLhyphen"/>mined by Commiſſion, and yet the King is the head of the State as much as of the Church, and the fountain of Temporal as well as of Eccleſiaſtical Juriſdiction, and all Judges derive their Authority from him. But there is no Law for it: and therefore it cannot be.</p>
+            <p>So that I take it very clearly, that our Kings Antient Eccleſiaſtical Juriſdiction was not a Perſonal Supremacy, ſeparate and di<g ref="char:EOLhyphen"/>ſtinct from the States of the Realm; that it was lodged in the Crown of <hi>England,</hi> in the King encompaſſed with Peerage and Comi<g ref="char:EOLhyphen"/>nalty, and to be adminiſtred in the Biſhops Courts, and no otherwiſe, but in caſes of Appeals, which were to the Parliament.</p>
+            <p>But admitting that <hi>primo Eliz.</hi> with re<g ref="char:EOLhyphen"/>ſpect
+<pb n="16" facs="tcp:96162:10"/>to the High-Commiſſion were but de<g ref="char:EOLhyphen"/>clarative; yet it ſeems to me beyond all manner of Scruple, that the Statute of 16 <hi>Car.</hi> 1. has taken away the Commiſſion it ſelf, Root and Branch, and not only the Power to Fine and Impriſon, and miniſter the Oath <hi>ex offi<g ref="char:EOLhyphen"/>cio.</hi> For if they had looked no farther, why the Statute of <hi>primo Eliz.</hi> repeal'd? In the <hi>4th. Baragr.</hi> it is enacted, <hi>that no Arch-Biſhop</hi> &amp;c, <hi>nor any perſon whatſoever exerciſing Spiritual or Eccleſiaſtical Authority or Iuriſdiction by any Grant, Licence or Commiſſion of the King's Majeſty</hi> &amp;c. <hi>ſhall inflict any Pain, Penalty, Fine, A<g ref="char:EOLhyphen"/>mercement, Impriſonment, or other Cor<g ref="char:EOLhyphen"/>poral puniſhment,</hi> &amp;c. This had been ſuf<g ref="char:EOLhyphen"/>ficient to diſable them to Fine and Impriſon. But they repeal the Branch of <hi>primo Eliz.</hi> and ordain, <hi>That no new Court ſhall be erected, which ſhall or may have the like Power, Iuriſdiction or Authority, as the High-Commiſſion Court then had or pre<g ref="char:EOLhyphen"/>tended to have.</hi> And the <hi>Stat. of</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 12. which Repeals the 16 <hi>Car.</hi> 1. Excepts out of the Repeal, <hi>What concerns the High Commiſſion Court, or the New erection
+<pb n="17" facs="tcp:96162:10"/>of ſuch like Court by Commiſſion:</hi> enacts <hi>that the Branch of the</hi> Statute primo Eliz. <hi>ſhall ſtand repealed.</hi>
+            </p>
+            <p>Beſides immediately upon the paſſing of 16. <hi>Car.</hi> 1. the High-Commiſſion Court, that then was, ceas'd to Act. They did not only ceaſe to Fine and Impriſon, but they ceaſed to Act as a Court. Nor in the <hi>Annus mirabilis</hi> of 1660 at the Reſtitution of all things, were the High-Commiſſioners re<g ref="char:EOLhyphen"/>ſtor'd, but the ordinary Juriſdiction of Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops <hi>&amp;c.</hi> being aſſerted, which ſome ambiguous words in the 16 <hi>of Car.</hi> 1. had rendred doubtful: They yet keep down the High-Commiſſion Court bound by two Chains; <hi>viz.</hi> that of the Repeal of <hi>primo Eliz.</hi> and the enacting that <hi>no ſuch like Court ſhall be erected by Commiſſion.</hi> All which caution had been impertinent, if <hi>Fining and Impriſoning and miniſtring the Oath ex officio,</hi> were the only things provided a<g ref="char:EOLhyphen"/>gainſt by 16 <hi>Car.</hi> 1. and the only things, which 13 <hi>Car.</hi> 2. <hi>cap.</hi> 12. deſigned to prevent the re<g ref="char:EOLhyphen"/>turning of.</p>
+            <pb n="18" facs="tcp:96162:11" rendition="simple:additions"/>
+            <p>You ſeem to lay a ſtreſs upon thoſe words of 13 <hi>Car.</hi> 2. <hi>c.</hi> 12. <hi>Or any other perſon or Perſons, exerciſing Spiritual Iuriſdicti<g ref="char:EOLhyphen"/>on by any Grant, Licence or</hi> Commiſſi<g ref="char:EOLhyphen"/>on <hi>from the King.</hi> By which you ſay that all Eccleſiaſtical Authority is recogniſed to be<g ref="char:EOLhyphen"/>long <hi>to them,</hi> the Stat. of 16 <hi>Car</hi> 1. notwith<g ref="char:EOLhyphen"/>ſtanding. But thoſe words are ſatisfied by Commiſſioners of Delegates, and Commiſſi<g ref="char:EOLhyphen"/>oners to viſit in places exempt, who exer<g ref="char:EOLhyphen"/>ciſe Eccleſiaſtical Authority by Commiſſion from the King. So that we need not take in the High Commiſſioners, eſpecially the Act providing in expreſs terms, that there ſhall be none ſuch.</p>
+            <p>Nor does that ſaving of the Kings Suprema<g ref="char:EOLhyphen"/>cy in Eccleſiaſtical Affairs mend the mat<g ref="char:EOLhyphen"/>ter. For it is againſt the nature of a <hi>Saving,</hi> to extend it to ſuch things as are particularized before. It would be nonſenſe to enact that the King ſhall not grant any ſuch Commiſ<g ref="char:EOLhyphen"/>ſions, ſaving that the King may ſuch Commiſſion, if he pleaſe. Rather the Ma<g ref="char:EOLhyphen"/>kers of that Law did not look upon the granting of ſuch a Commiſſion, as being a<g ref="char:EOLhyphen"/>ny
+<pb n="19" facs="tcp:96162:11"/>part of the King's Eccleſiaſtical Suprema<g ref="char:EOLhyphen"/>cy, as indeed it was not, but a new Authority given to the Crown by <hi>primo Eliz.</hi> Which might be taken away again without any ble<g ref="char:EOLhyphen"/>miſh to the <hi>Antient Legal Supremacy.</hi>
+            </p>
+            <p>You do not pretend to ground this preſent Commiſſion upon the <hi>primo Eliz.</hi> which confeſſedly ſtands repealed: but upon the King's Supremacy at Common Law. What power then have the Commiſſioners to cite a<g ref="char:EOLhyphen"/>ny man out of his Dioceſs? For it is againſt the 23 <hi>H.</hi> 8. <hi>cap.</hi> 9. for any judge ſpiritual ſo to do.</p>
+            <p>Theſe things I offer concerning the Juriſ<g ref="char:EOLhyphen"/>diction it ſelf, in which if you think it worth your while to give me ſatisfaction, you will extreamly oblige</p>
+            <closer>
+               <signed>Your Friend and Servant, <hi>Philonomos Anglicus.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
